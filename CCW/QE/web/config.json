@@ -1,0 +1,15 @@
+{
+ "datacenter": "dc1",
+ "data_dir": "C:\\Users\\bharath.reddy\\Source\\Repos\\Github\\Consul\\consul_1.9.1_windows_amd64\\data",
+ "encrypt": "EXz7LFN8hpQ4id8EDYiFoQ==",
+ "log_level": "EINFO",
+ "node_name": "ConsulClient",
+ "log_file": "C:\\Users\\bharath.reddy\\Source\\Repos\\Github\\Consul\\consul_1.9.1_windows_amd64\\config\\consul.log",
+ "server": false,   
+ "bootstrap": false,
+ "rejoin_after_leave": true,
+ "ui": true,
+ "retry_join": [
+    "127.0.0.1"
+    ]
+ }
