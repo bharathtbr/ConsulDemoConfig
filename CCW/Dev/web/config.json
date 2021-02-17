@@ -7,6 +7,7 @@
  "log_file": "C:\\Users\\bharath.reddy\\Source\\Repos\\Github\\Consul\\consul_1.9.1_windows_amd64\\config\\consul.log",
  "server": false,   
  "bootstrap": false,
+ "server1": false2, 
  "rejoin_after_leave": true,
  "ui": true,
  "retry_join": [
