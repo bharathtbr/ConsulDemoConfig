@@ -1,0 +1,4 @@
+{
+ "TransactionTimeoutInMinutes": "15",
+ "ACL_Global_Block": "1"
+ }
